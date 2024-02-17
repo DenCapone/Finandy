@@ -1,0 +1,8 @@
+python-binance==1.0.19
+python-dotenv==1
+telebot==0.0.5
+telethon==1.30.3
+pydantic==1.10.13
+unicorn-binance-websocket-api==2.1.2
+# gunicorn==21.2.0
+
